@@ -3,4 +3,21 @@ mv delivery/apples.txt fruit
 mv delivery/bison_burgers.txt meat
 mv delivery/carrot_cake.txt dessert
 mv delivery/carrots.txt veggies
-mv delivery/eggo_waffles.txt 
+mv delivery/eggo_waffles.txt freezer
+mv delivery/fig_bars.txt snax
+mv delivery/garlic.txt veggies
+mv delivery/goldfish.txt snax
+mv delivery/grapples.txt fruit
+mv delivery/hotdogs.txt meat
+mv delivery/lean_cuisine meat
+mv delivery/leeks.txt veggies
+mv delivery/mint_milano_cookies.txt dessert
+mv delivery/onion.txt veggies
+mv delivery/oreos.txt dessert
+mv delivery/potatoes.txt veggies
+mv delivery/tiramisu_cake.txt dessert
+mv delivery/tomatoes.txt fruit
+mv delivery/trail_mix.txt snax
+mv delivery/velveeta_cheese.txt dairy
+mv delivery/watermelon.txt fruit
+mv delivery/wonder_bread.txt dairy
